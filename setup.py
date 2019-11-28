@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from setuptools import setup, find_packages
-from cfg.__const__ import VERSION
+from icfg import VERSION
 
 setup(
     name='icfg',
